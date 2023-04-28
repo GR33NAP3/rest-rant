@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/GR33NAP3/rest-rant/issues"
   },
-  "homepage": "https://github.com/GR33NAP3/rest-rant#readme"
+  "homepage": "https://github.com/GR33NAP3/rest-rant#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3"
+  }
 }
