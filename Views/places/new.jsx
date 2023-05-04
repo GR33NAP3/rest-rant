@@ -1,14 +1,14 @@
 const React = require('react')
 const Def = require('../default')
 
-function showPage () {
+function New_form () {
     return(
         <Def>
             <main>
-                <h2>details page for one place</h2>
+                <h1>ADD a New Place</h1>
             </main>
         </Def>
     )
 }
 
-module.exports = showPage
+module.exports = New_form
